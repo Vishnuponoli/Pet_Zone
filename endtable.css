@@ -1,0 +1,35 @@
+#foot {
+    
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#endtable {
+    border: 2px solid red;
+    width: 110%;
+    height: 100%;
+    background-color: black;
+    color: aliceblue;
+}
+tr{
+    border: 1px solid red;
+}
+ul {
+    list-style-type: none;
+}
+
+li {
+     font-family: Arial, Helvetica, sans-serif;
+}
+td {
+    border: 1px solid red;
+    text-align: center;
+}
+th {
+    border: 2px solid red;
+    font-style: oblique;
+}
+#helco {
+    text-align: calc(right 80%);
+    font-style: oblique
+}

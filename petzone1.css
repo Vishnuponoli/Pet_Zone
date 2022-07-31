@@ -3,22 +3,8 @@
     background-color: powderblue;
     
 }
-#foot {
-    
-    color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+
 #form { 
     
     background-image: form bg;
 }
-#endtable {
-    text-align: center;
-    width: 100%;
-    background-color: black;
-    color: aliceblue;
-}
-ul {
-    list-style-type: none;
-}
-
