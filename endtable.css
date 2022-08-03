@@ -6,7 +6,7 @@
 
 #endtable {
     border: 2px solid red;
-    width: 110%;
+    width: 100%;
     height: 100%;
     background-color: black;
     color: aliceblue;
@@ -32,4 +32,16 @@ th {
 #helco {
     text-align: calc(right 80%);
     font-style: oblique
+}
+
+#signup {
+    border: 2px solid blue;
+    border-radius: 5px;
+    background-color: white;
+    color: dodgerblue;
+    padding: 14px 28px;
+    cursor: pointer;
+}
+#stripe {
+    
 }
