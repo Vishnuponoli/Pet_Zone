@@ -8,3 +8,58 @@
     
     background-image: form bg;
 }
+
+#foot {
+    
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#endtable {
+    
+    width: 100%;
+    background-color: rgba(1, 63, 63, 0.671);
+    color: aliceblue;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    
+    text-align: center;
+}
+
+th {
+    
+    font-style: oblique;
+}
+
+#helco {
+    text-align: calc(right 80%);
+    font-style: oblique
+}
+
+#signup {
+    border: 2px solid dodgerblue;
+    border-radius: 5px;
+    background-color: white;
+    color: dodgerblue;
+    padding: 14px 28px;
+    cursor: pointer;
+}
+
+#stripe {
+    border-top: 1px solid white;
+}
+.petform{
+    font-family: sans-serif;
+    border: 1px solid black;
+    padding: 0;
+    text-align: center;
+}   
